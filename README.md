@@ -19,7 +19,8 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/glaubermarcelino/inMap/blob/main/src/inMap.gif?raw=true" alt="inMap" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/inMap/blob/main/src/screens/comunidades.jpg?raw=true" alt="Comunidades" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/inMap/blob/main/src/screens/localizacao.jpg?raw=true" alt="Localização" /> </p>
 
 
 ### `Clone this project`
