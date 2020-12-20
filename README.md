@@ -19,8 +19,8 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/glaubermarcelino/inMap/blob/main/src/screens/comunidades.jpg?raw=true" alt="Comunidades" /> </p>
-<p align="center"> <img src="https://github.com/glaubermarcelino/inMap/blob/main/src/screens/localizacao.jpg?raw=true" alt="Localização" /> </p>
+<p align="center"> <img height="800" src="https://github.com/glaubermarcelino/inMap/blob/main/src/screens/comunidades.jpg?raw=true" alt="Comunidades" />
+<img  height="800" src="https://github.com/glaubermarcelino/inMap/blob/main/src/screens/localizacao.jpg?raw=true" alt="Localização" /> </p>
 
 
 ### `Clone this project`
